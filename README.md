@@ -140,7 +140,7 @@ lower accuracy and precision.
 1. Download or clone the GitHub repository.
 2. Install Python and Jupyter Notebook.
 3. Install the libraries in requirements.txt.
-4. Open the notebook ML_Assignment Sanjay.ipynb.
+4. Open the notebook ML_Assignment 2026CT05178.ipynb.
 5. Ensure adult.csv is in the project folder.
 6. Run all notebook cells sequentially.
 7. Review the model results and comparison graphs.
@@ -148,7 +148,7 @@ lower accuracy and precision.
 ## 12. Project Files
 
 - adult.csv
-- ML_Assignment Sanjay.ipynb
+- ML_Assignment 2026CT05178.ipynb
 - requirements.txt
 - README.md
 - test_data.csv
