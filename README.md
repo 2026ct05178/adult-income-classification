@@ -34,8 +34,9 @@ Testing Records: 9,758
 
 Missing Values After Duplicate Removal: 6,456
 
-## 3.  Project Structure
- 
+## 3. Project Structure
+
+```text
 adult-income-classification/
 │
 ├── README.md
@@ -50,6 +51,7 @@ adult-income-classification/
     ├── model_comparison_graph.png
     ├── model_comparison_results.csv
     └── model_observations.csv
+```
     
 ## 4. GitHub Repository Link
 
