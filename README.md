@@ -36,7 +36,7 @@ Missing Values After Duplicate Removal: 6,456
 
 ## 3. GitHub Repository Link
 
-GitHub Repository: https://github.com/2026ct05180-sys/Adult-Income-ML-Classification
+GitHub Repository: https://github.com/2026ct05178/adult-income-classification
 
 ## 4. Data Preprocessing
 
