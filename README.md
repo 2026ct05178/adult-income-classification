@@ -34,7 +34,7 @@ Testing Records: 9,758
 
 Missing Values After Duplicate Removal: 6,456
 
-## 3. ## Project Structure
+## 3.  Project Structure
  
 adult-income-classification/
 │
