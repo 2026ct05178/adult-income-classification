@@ -145,19 +145,8 @@ lower accuracy and precision.
 6. Run all notebook cells sequentially.
 7. Review the model results and comparison graphs.
 
-## 12. Project Files
 
-- adult.csv
-- ML_Assignment 2026CT05178.ipynb
-- requirements.txt
-- README.md
-- test_data.csv
-- model_comparison_results.csv
-- model_observations.csv
-- model_comparison_graph.png
-- model/
-
-## 13. Conclusion
+## 12. Conclusion
 
 Five machine learning classification algorithms
 were implemented using the Adult Income Dataset.
