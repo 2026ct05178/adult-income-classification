@@ -34,7 +34,7 @@ Testing Records: 9,758
 
 Missing Values After Duplicate Removal: 6,456
 
-**## 3. Main Features
+## 3. Main Features
 Feature	Description
 `age`	Age of the individual
 `workclass`	Employment category
