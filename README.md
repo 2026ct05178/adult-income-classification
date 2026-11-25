@@ -34,7 +34,7 @@ Testing Records: 9,758
 
 Missing Values After Duplicate Removal: 6,456
 
-## 3. Main Features
+**## 3. Main Features
 Feature	Description
 `age`	Age of the individual
 `workclass`	Employment category
@@ -51,7 +51,7 @@ Feature	Description
 `hours-per-week`	Weekly working hours
 `native-country`	Country of origin
 `income`	Target variable
----
+---**
 
 ## 4. GitHub Repository Link
 
