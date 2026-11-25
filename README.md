@@ -1,4 +1,4 @@
-<img width="1220" height="682" alt="image" src="https://github.com/user-attachments/assets/3b5833ad-2449-42ad-8e10-75e16170ff12" />
+
 # Adult Income Classification - Machine Learning Assignment 2
 
 ## 1. Problem Statement
