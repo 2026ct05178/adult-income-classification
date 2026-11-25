@@ -1,4 +1,4 @@
-
+<img width="1220" height="682" alt="image" src="https://github.com/user-attachments/assets/3b5833ad-2449-42ad-8e10-75e16170ff12" />
 # Adult Income Classification - Machine Learning Assignment 2
 
 ## 1. Problem Statement
@@ -111,7 +111,9 @@ GitHub Repository: https://github.com/2026ct05178/adult-income-classification
 The following six evaluation metrics were visualized:
 Accuracy, AUC, Precision, Recall, F1 Score, and MCC.
 
-![Model Comparison](model_comparison_graph.png)
+<img width="1220" height="682" alt="image" src="https://github.com/user-attachments/assets/166470cc-3e3f-4442-bf32-a1d6c3128d7e" />
+
+
 
 ## 9. Model Performance Observations
 
