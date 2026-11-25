@@ -23,9 +23,9 @@ Target Variable: income
 
 Classification Type: Binary Classification
 
-Target Classes:
-- <=50K
-- >50K
+`<=50K`: Annual income is less than or equal to $50,000
+`>50K`: Annual income is greater than $50,000
+
 
 Records After Duplicate Removal: 48,790
 
@@ -34,11 +34,30 @@ Testing Records: 9,758
 
 Missing Values After Duplicate Removal: 6,456
 
-## 3. GitHub Repository Link
+## 3. Main Features
+Feature	Description
+`age`	Age of the individual
+`workclass`	Employment category
+`fnlwgt`	Final sampling weight
+`education`	Highest education level
+`education-num`	Education level represented numerically
+`marital-status`	Marital status
+`occupation`	Occupation category
+`relationship`	Family relationship category
+`race`	Race category recorded in the dataset
+`sex`	Sex category recorded in the dataset
+`capital-gain`	Capital gains
+`capital-loss`	Capital losses
+`hours-per-week`	Weekly working hours
+`native-country`	Country of origin
+`income`	Target variable
+---
+
+## 4. GitHub Repository Link
 
 GitHub Repository: https://github.com/2026ct05180-sys/Adult-Income-ML-Classification
 
-## 4. Data Preprocessing
+## 5. Data Preprocessing
 
 1. Identified missing values represented by '?'.
 2. Removed 52 duplicate records.
@@ -53,7 +72,7 @@ GitHub Repository: https://github.com/2026ct05180-sys/Adult-Income-ML-Classifica
 11. Applied StandardScaler.
 12. Fitted preprocessing only on training data.
 
-## 5. Models Used
+## 6. Models Used
 
 ### Logistic Regression
 - max_iter=1000
@@ -77,7 +96,7 @@ GitHub Repository: https://github.com/2026ct05180-sys/Adult-Income-ML-Classifica
 - min_samples_split=5
 - random_state=42
 
-## 6. Model Comparison Results
+## 7. Model Comparison Results
 
 | ML Model Name       |   Accuracy |    AUC |   Precision |   Recall |     F1 |    MCC |
 |:--------------------|-----------:|-------:|------------:|---------:|-------:|-------:|
@@ -87,7 +106,7 @@ GitHub Repository: https://github.com/2026ct05180-sys/Adult-Income-ML-Classifica
 | Naive Bayes         |     0.6173 | 0.8329 |      0.3777 |   0.9242 | 0.5363 | 0.3855 |
 | Random Forest       |     0.8583 | 0.9139 |      0.7818 |   0.5659 | 0.6566 | 0.582  |
 
-## 7. Performance Visualization
+## 8. Performance Visualization
 
 The following six evaluation metrics were visualized:
 Accuracy, AUC, Precision, Recall, F1 Score, and MCC.
@@ -95,7 +114,7 @@ Accuracy, AUC, Precision, Recall, F1 Score, and MCC.
 <img width="1220" height="682" alt="model" src="https://github.com/user-attachments/assets/518aff71-6379-43d4-a3e2-509755190fe0" />
 
 
-## 8. Model Performance Observations
+## 9. Model Performance Observations
 
 | ML Model Name       | Observation about Model Performance                                                                                                                                                                     |
 |:--------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -106,7 +125,7 @@ Accuracy, AUC, Precision, Recall, F1 Score, and MCC.
 | Random Forest       | Achieved the highest accuracy of 85.83%, AUC of 0.9139, precision of 0.7818, and MCC of 0.5820. It provides strong overall performance.                                                                 |
 | Overall Winner      | Random Forest is selected as the overall winner because it achieved the highest accuracy, AUC, precision, and MCC, with a competitive F1 score. However, its recall is lower than that of other models. |
 
-## 9. Overall Winner
+## 10. Overall Winner
 
 Random Forest achieved the highest accuracy, AUC,
 precision, and MCC among the five models.
@@ -117,7 +136,7 @@ overall best-performing model for this dataset.
 Naive Bayes achieved the highest recall but had
 lower accuracy and precision.
 
-## 10. Execution Instructions
+## 11. Execution Instructions
 
 1. Download or clone the GitHub repository.
 2. Install Python and Jupyter Notebook.
@@ -127,7 +146,7 @@ lower accuracy and precision.
 6. Run all notebook cells sequentially.
 7. Review the model results and comparison graphs.
 
-## 11. Project Files
+## 12. Project Files
 
 - adult.csv
 - ML_Assignment Sanjay.ipynb
@@ -139,7 +158,7 @@ lower accuracy and precision.
 - model_comparison_graph.png
 - model/
 
-## 12. Conclusion
+## 13. Conclusion
 
 Five machine learning classification algorithms
 were implemented using the Adult Income Dataset.
