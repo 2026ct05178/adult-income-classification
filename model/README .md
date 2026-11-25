@@ -111,7 +111,8 @@ GitHub Repository: https://github.com/2026ct05178/adult-income-classification
 The following six evaluation metrics were visualized:
 Accuracy, AUC, Precision, Recall, F1 Score, and MCC.
 
-![Model Comparison](model_comparison_graph.png)
+<img width="1220" height="682" alt="image" src="https://github.com/user-attachments/assets/89dba8f4-fa8c-4cbf-8d80-b12a52714f9f" />
+
 
 ## 9. Model Performance Observations
 
