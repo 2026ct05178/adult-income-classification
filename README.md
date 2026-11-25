@@ -35,23 +35,52 @@ Testing Records: 9,758
 Missing Values After Duplicate Removal: 6,456
 
 ## 3. Main Features
-Feature	Description
-`age`	Age of the individual
-`workclass`	Employment category
-`fnlwgt`	Final sampling weight
-`education`	Highest education level
-`education-num`	Education level represented numerically
-`marital-status`	Marital status
-`occupation`	Occupation category
-`relationship`	Family relationship category
-`race`	Race category recorded in the dataset
-`sex`	Sex category recorded in the dataset
-`capital-gain`	Capital gains
-`capital-loss`	Capital losses
-`hours-per-week`	Weekly working hours
-`native-country`	Country of origin
-`income`	Target variable
----**
+
+**Feature:** `age`  
+**Description:** Age of the individual
+
+**Feature:** `workclass`  
+**Description:** Employment category
+
+**Feature:** `fnlwgt`  
+**Description:** Final sampling weight
+
+**Feature:** `education`  
+**Description:** Highest education level
+
+**Feature:** `education-num`  
+**Description:** Education level represented numerically
+
+**Feature:** `marital-status`  
+**Description:** Marital status
+
+**Feature:** `occupation`  
+**Description:** Occupation category
+
+**Feature:** `relationship`  
+**Description:** Family relationship category
+
+**Feature:** `race`  
+**Description:** Race category recorded in the dataset
+
+**Feature:** `sex`  
+**Description:** Sex category recorded in the dataset
+
+**Feature:** `capital-gain`  
+**Description:** Capital gains
+
+**Feature:** `capital-loss`  
+**Description:** Capital losses
+
+**Feature:** `hours-per-week`  
+**Description:** Weekly working hours
+
+**Feature:** `native-country`  
+**Description:** Country of origin
+
+**Feature:** `income`  
+**Description:** Target variable (`<=50K` or `>50K`)
+
 
 ## 4. GitHub Repository Link
 
